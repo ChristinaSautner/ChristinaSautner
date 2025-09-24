@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Just starting over my journey from Lab-Tec to Tec-Tec  \(^o^)/ </p>
+<p align="center">Just starting my journey from Lab-Tec to Tec-Tec  \(^o^)/ </p>
   
                 
 
