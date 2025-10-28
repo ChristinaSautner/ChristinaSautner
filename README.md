@@ -8,7 +8,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nanwa-Cell/Nanwa-Cell/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ChristinaSautner/ChristinaSautner/output/snake.svg" alt="Snake animation" />
 
 ###
 
